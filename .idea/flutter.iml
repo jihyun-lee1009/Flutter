@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/gibridge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gibridge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gibridge/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/toonflix/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/toonflix/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/toonflix/build" />
+      <excludeFolder url="file://$MODULE_DIR$/account/build" />
+      <excludeFolder url="file://$MODULE_DIR$/account/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/account/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_dice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_dice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_dice/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/actual/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/actual/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/actual/build" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/riverpod_theory/build" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/riverpod_theory/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codefactory/riverpod_theory/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
